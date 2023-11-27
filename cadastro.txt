@@ -1,0 +1,25 @@
+
+CADASTRO EMPRESA
+NOME DA EMPRESA:Entulhos Barboza
+NOME FANTASIA:Entulhos Barboza
+NOME RESPONSÁVEL:Jander Arlia Barboza
+RAZÃO SOCIAL:Barboza Medel Entulhos EPP
+CNPJ EMPRESA:52.771.855/0001-10
+DATA DE CRIAÇÃO DA EMPRESA:10/5/1975
+Endereço:Avenida Angelo Pinotti, 1547, Francisco Morato, SP, SP
+CEP:15999-082
+
+TIPO DE INSUMO :Concreto Armado
+QUANTIDADE:2.665
+CADASTRO EMPRESA
+NOME DA EMPRESA:Entulhos Barboza
+NOME FANTASIA:Entulhos Barboza
+NOME RESPONSÁVEL:Jander Arlia Barboza
+RAZÃO SOCIAL:Barboza Medel Entulhos EPP
+CNPJ EMPRESA:52.771.855/0001-10
+DATA DE CRIAÇÃO DA EMPRESA:10/5/1975
+Endereço:Avenida Angelo Pinotti, 1547, Francisco Morato, SÆo Paulo, SP
+CEP:15999-082
+
+TIPO DE INSUMO :Concreto Armado
+QUANTIDADE:2.665 T
